@@ -1,0 +1,2 @@
+change setting 
+router.js : '/enum' + config.env 
